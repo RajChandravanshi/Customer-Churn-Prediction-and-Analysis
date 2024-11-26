@@ -12,7 +12,7 @@ This project focuses on analyzing customer churn using a dataset of customer act
 *Conducted univariate analysis for key features:*
 - Age, Tenure, Usage Frequency, Support Calls, Payment Delay, Subscription Type, Contract Length, and Total Spend.
 - Visualized data distributions using histograms, KDE plots, and boxplots.
-- Checked for skewness and outliers.
+- Checked for skewness and outliers. <br>
 *Conducted bivariate analysis:*
 - Analyzed relationships between features and churn using count plots, histograms, and correlation heatmaps.
 - Explored categorical variables like subscription type and contract length against churn.
