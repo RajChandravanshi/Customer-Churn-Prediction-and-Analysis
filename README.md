@@ -7,3 +7,9 @@ This project focuses on analyzing customer churn using a dataset of customer act
  - Removed irrelevant columns (e.g., CustomerID).
  - Handled missing values and checked for duplicates.
  - Cleaned and preprocessed the dataset.
+
+- 2. Exploratory Data Analysis (EDA)
+---- Conducted univariate analysis for key features:
+Age, Tenure, Usage Frequency, Support Calls, Payment Delay, Subscription Type, Contract Length, and Total Spend.
+Visualized data distributions using histograms, KDE plots, and boxplots.
+Checked for skewness and outliers.
